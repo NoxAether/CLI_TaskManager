@@ -8,6 +8,6 @@ User setup scripts will be added to ask for custom colors and of course its bash
 
 Use the `install.sh` to set everything up.
 
-Use the ~/.bashTaskman/`remove.sh` to remove everything that was setup.
+Use the `~/.bashTaskman/remove.sh` to remove everything that was setup.
 
 You can remove the cloned repo after running `install.sh`
